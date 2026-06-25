@@ -1,5 +1,7 @@
 # Fancy Forest
 
+A small Python terminal project that prints a randomly generated ASCII forest.
+
 I kept seeing tree-printing questions and thought: why print only one plain tree? Around the same time I discovered Python’s `center()` function and realised it makes text alignment so much easy. That led to this tiny experiment — generate multiple trees with random heights and leaf styles and let them grow into a little forest.
 
 ## Idea
